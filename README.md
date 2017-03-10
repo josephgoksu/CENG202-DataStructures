@@ -1,4 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/tr/e/e3/YBU_logo_vector_KC.png "YBU Computer Engineering")
+![alt text](http://euravon.ybu.edu.tr/wp-content/uploads/2016/10/YBU_logo-300x300.jpg "YBU Computer Engineering")
 
 # CENG202-DataStructures
 Yildirim Beyazit University CENG 202 Data Structures LAB Notes
