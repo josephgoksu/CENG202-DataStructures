@@ -7,6 +7,9 @@ Below labs are available right now. Every week will update. NP
 
 1. LAB-1
 2. LAB-2
+3. LAB-3
+4. LAB-4
+5. LAB-5 without iterative transval
 
 In **the src** folder you can access **raw** codes.
 
