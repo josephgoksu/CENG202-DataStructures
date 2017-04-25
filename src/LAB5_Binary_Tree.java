@@ -57,9 +57,9 @@ public class LAB5_Binary_Tree
 }
 
 class Node {
-    private int key;
-    private Node left;
-    private Node right;
+    public int key;
+    public Node left;
+    public Node right;
 
     Node (int key) {
         this.key = key;
